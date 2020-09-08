@@ -1,0 +1,25 @@
+.hide {
+    display: none;
+}
+
+.author-link {
+    list-style: none;
+}
+
+.author-link:hover {
+    background-color: #00009c;
+    color: #fff;
+    cursor: pointer;
+}
+
+.nav-item:hover {
+    background-color: #fff;
+}
+
+.art-object {
+    background-color: #ddd;
+}
+
+.art-image {
+    max-width: 70%;
+}
